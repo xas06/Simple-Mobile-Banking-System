@@ -1,0 +1,5 @@
+Sistem perbankan sederhana - collaboration project based
+
+1. Silakan unduh file "Mobile Banking System - Simple Deign.c" dengan ekstensi .c 
+2. Setelah file terunduh, mohon untuk mengeksekusi program pada CodeBlock atau software pemrograman lainnya
+3. Software untuk mengeksekusi program hanya dapat dilakukan pada lingkungan yang mendukung Bahasa pemrograman c
